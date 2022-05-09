@@ -65,8 +65,8 @@ module.exports = {
 
 ### Endpoints should work from localhost or your dataplicity url
 - serverIP/temp
-- dataplicityurl/temp
-  - https://equalised-saola-0977.dataplicity.io/temp
+- serverIP/health
 - serverIP/image
+- dataplicityurl/temp
+- dataplicityurl/health
 - dataplicityurl/image
-  - https://equalised-saola-0977.dataplicity.io/image
