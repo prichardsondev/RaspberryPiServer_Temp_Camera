@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/pi/server
+pm2 start app.js
+pm2 save
